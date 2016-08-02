@@ -51,7 +51,7 @@ public class Day2Homework {
 		mahFavTings[3][3] = "Ant Man";
 		mahFavTings[3][4] = "Pider Man";
 		mahFavTings[3][5] = "Ba-Man";
-		
+
 		System.out.println(Arrays.toString(mahFavMovingPics));
 		System.out.println(Arrays.toString(mahFavMusicMakers));
 		System.out.println(Arrays.deepToString(mahFavTings));
